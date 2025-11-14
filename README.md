@@ -51,4 +51,3 @@ This project uses the following technologies as defined in the project documents
 * **Orchestration:** Databricks Jobs
 * **Analytics:** Databricks SQL
 
-## 4. Project Folder Structure
